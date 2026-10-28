@@ -28,7 +28,10 @@
 
 I am a **Full Stack Software Engineer** focused on building resilient, maintainable, and user-centric web systems. From relational data modeling and zero-trust backend architectures to responsive, accessible client experiences, I craft end-to-end software designed for real-world production.
 
-- 🏆 **Hackathon Champion**: 1st Place with **SafeCAT AI** (Workplace safety intelligence for eSocial) & 3rd Place with **Tecida** (Equatorial Hackathon).
+- 🏆 **Hackathon Proven Track Record**:
+  - 🥇 **1st Place**: [**SafeCAT AI**](https://github.com/codebyjuliamendes/ia-para-CAT-engenharia) — Workplace safety intelligence & root-cause analysis for eSocial S-2210.
+  - 🥉 **3rd Place**: [**Transparência MA**](https://github.com/codebyjuliamendes/hackthon-stc-ma-2026) — Government public transparency portal with AI semantic search & TTS audio synthesis (STC-MA Hackathon with [@rafaelsoeiro](https://github.com/rafaelsoeiro)).
+  - 🥉 **3rd Place**: [**Tecida (Entre Elas)**](https://github.com/codebyjuliamendes/entre_elas) — AI-driven corporate female mentorship & knowledge network (Equatorial Hackathon).
 - 🌐 **Interactive Portfolio**: Experience [**JúliaOS**](https://codebyjuliamendes.github.io) — a retro-modern interactive web desktop environment built with zero runtime dependencies.
 - 🛠️ **Engineering Mindset**: Domain-driven design, immutable audit logs, strict security defaults, and automated test-driven pipelines.
 
@@ -55,7 +58,8 @@ I am a **Full Stack Software Engineer** focused on building resilient, maintaina
 
 | Project | Highlights & Problem Solved | Stack | Status |
 | :--- | :--- | :--- | :---: |
-| [**SafeCAT AI**](https://github.com/codebyjuliamendes/ia-para-CAT-engenharia) | **Workplace Safety Intelligence**: Automated eSocial S-2210 root-cause analysis and SESMT safety indicators powered by AI. | Python · Streamlit · Claude API | 🏆 Winner |
+| [**SafeCAT AI**](https://github.com/codebyjuliamendes/ia-para-CAT-engenharia) | **Workplace Safety Intelligence**: Automated eSocial S-2210 root-cause analysis and SESMT safety indicators powered by AI. | Python · Streamlit · Claude API | 🏆 1st Place |
+| [**Transparência MA**](https://github.com/codebyjuliamendes/hackthon-stc-ma-2026) | **Government Transparency & AI Search**: Public spending intelligence portal with semantic natural language search, speech synthesis (TTS), contracts, and budget analytics. In partnership with [@rafaelsoeiro](https://github.com/rafaelsoeiro). | NestJS 11 · Next.js 16 · Prisma · PostgreSQL · AI / TTS | 🥉 3rd Place |
 | [**Tecida (Entre Elas)**](https://github.com/codebyjuliamendes/entre_elas) | **Collaborative Knowledge Network**: AI-explained female mentorship & skills discovery across corporate teams. | Next.js · Supabase · pgvector | 🥉 3rd Place · [Live](https://entre-elas-omega.vercel.app) |
 | [**ResenhaMarket**](https://github.com/codebyjuliamendes/resenhamarket) | **Inventory Management & Ledger**: Immutable audit trail with guaranteed non-negative stock invariants. | Java 21 · Spring Boot · React · Postgres | 🟢 [Live Demo](https://resenhamarket.vercel.app) |
 | [**Secretar.ia**](https://github.com/codebyjuliamendes/secretar.ia) | **AI Receptionist via WhatsApp**: Multi-tenant automated scheduling, triage and billing for healthcare clinics. | FastAPI · Next.js · Postgres · Gemini | ⚡ Production MVP |
@@ -121,7 +125,10 @@ I am a **Full Stack Software Engineer** focused on building resilient, maintaina
 
 Desenvolvedora Full Stack focada em construir produtos web completos, do banco de dados à interface, com regras de negócio bem testadas, APIs seguras e prontas para rodar em produção.
 
-- 🏆 **Campeã de Hackathon**: 1º Lugar com **SafeCAT AI** e 3º Lugar com **Tecida** (Hackathon Equatorial).
+- 🏆 **Pódios em Hackathons**:
+  - 🥇 **1º Lugar**: **SafeCAT AI** (Inteligência e causa raiz de acidentes para eSocial S-2210)
+  - 🥉 **3º Lugar**: **Transparência MA** (Portal de transparência pública com busca semântica por IA e síntese de voz, no Hackathon STC-MA em parceria com [@rafaelsoeiro](https://github.com/rafaelsoeiro))
+  - 🥉 **3º Lugar**: **Tecida** (Rede corporativa de conhecimento e mentoria feminina no Hackathon Equatorial)
 - 🌐 **Portfólio Interativo**: Conheça o [**JúliaOS**](https://codebyjuliamendes.github.io) — um ambiente retrô de sistema operacional web sem dependências externas.
 - 💼 [LinkedIn](https://www.linkedin.com/in/codebyjuliamendes) · 📧 [juliamendesazz@gmail.com](mailto:juliamendesazz@gmail.com)
 
