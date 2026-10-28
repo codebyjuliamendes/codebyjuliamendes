@@ -9,6 +9,8 @@
 | Projeto | O que resolve | Stack |
 | --- | --- | --- |
 | [**ContaJusta**](https://github.com/codebyjuliamendes/contajusta) | Divisão de despesas em grupo, com convite por link e acertos sugeridos | Node.js · Express · SQLite · PWA |
+| [**SafeCAT AI**](https://github.com/codebyjuliamendes/ia-para-CAT-engenharia) 🏆 | CAT (eSocial S-2210) com causa raiz por IA e indicadores para o SESMT. Campeão de hackathon | Python · Streamlit · Claude API |
+| [**Tecida (Entre Elas)**](https://github.com/codebyjuliamendes/entre_elas) 🥉 | Rede de conhecimento entre mulheres da empresa, com indicações explicadas por IA. Projeto em equipe, 3º lugar no Hackathon Equatorial | Next.js · Supabase · pgvector |
 | [**EntregaViva**](https://github.com/codebyjuliamendes/entregaviva) | Painel de pedidos em tempo real para restaurante, cozinha e entregadores | Go · chi · Server-Sent Events |
 | [**SpecSentry**](https://github.com/codebyjuliamendes/specsentry) | Detecta mudanças que quebram contratos OpenAPI antes do release | Rust · axum · clap |
 | [**AgentLedger**](https://github.com/codebyjuliamendes/agentledger) | Aprovação humana e auditoria encadeada para ações de agentes de IA | Java 21 · Spring Boot · PostgreSQL |
@@ -26,12 +28,12 @@ Também: [AccessWindow](https://github.com/codebyjuliamendes/accesswindow) (Kotl
 
 #### Stack
 
-`TypeScript` `JavaScript` `Python` `Go` `Rust` `Java` `Kotlin` · `Node.js` `Fastify` `FastAPI` `Spring Boot` `axum` · `PostgreSQL` `SQLite` · `Docker` `GitHub Actions`
+`TypeScript` `JavaScript` `Python` `Go` `Rust` `Java` `Kotlin` · `Node.js` `Next.js` `Fastify` `FastAPI` `Spring Boot` `axum` · `PostgreSQL` `Supabase` `SQLite` · `Docker` `GitHub Actions`
 
 ---
 
 ### Hi, I'm Júlia 👋
 
-**Full stack developer.** I build complete web products, from the database to the interface, with well-tested business rules, secure APIs and production-ready infrastructure. Featured work above: Go real-time systems, a Rust OpenAPI contract checker, a Java audit ledger for AI agents, Python data import pipelines and more.
+**Full stack developer.** I build complete web products, from the database to the interface, with well-tested business rules, secure APIs and production-ready infrastructure. Featured work above: a hackathon-winning workplace safety app (SafeCAT AI), a team knowledge-network product that placed 3rd at the Equatorial Hackathon (Tecida), Go real-time systems, a Rust OpenAPI contract checker, a Java audit ledger for AI agents, Python data import pipelines and more.
 
 🌐 [Portfolio](https://codebyjuliamendes.github.io/en/) · 💼 [LinkedIn](https://www.linkedin.com/in/codebyjuliamendes)
