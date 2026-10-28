@@ -100,6 +100,41 @@ I am a **Full Stack Software Engineer** focused on building resilient, maintaina
 
 ---
 
+### 🎮 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codebyjuliamendes/codebyjuliamendes/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codebyjuliamendes/codebyjuliamendes/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/codebyjuliamendes/codebyjuliamendes/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
+
+</div>
+
+---
+
+### 🏅 Badges & Honors
+
+<div align="center">
+
+<a href="https://github.com/codebyjuliamendes?tab=achievements">
+  <img src="https://img.shields.io/badge/Pull_Shark-Bronze_x2-0969DA?style=for-the-badge&logo=github&logoColor=white" alt="Pull Shark" />
+</a>
+<a href="https://github.com/codebyjuliamendes/ia-para-CAT-engenharia">
+  <img src="https://img.shields.io/badge/Hackathon_Champion-1st_Place-FFD700?style=for-the-badge&logo=target&logoColor=black" alt="SafeCAT 1st Place" />
+</a>
+<a href="https://github.com/codebyjuliamendes/hackthon-stc-ma-2026">
+  <img src="https://img.shields.io/badge/Transparency_Hackathon-3rd_Place-CD7F32?style=for-the-badge&logo=shield&logoColor=white" alt="STC-MA 3rd Place" />
+</a>
+<a href="https://github.com/codebyjuliamendes/entre_elas">
+  <img src="https://img.shields.io/badge/Equatorial_Hackathon-3rd_Place-CD7F32?style=for-the-badge&logo=star&logoColor=white" alt="Tecida 3rd Place" />
+</a>
+
+</div>
+
+---
+
 ### 💡 Core Engineering Principles
 
 ```ascii
