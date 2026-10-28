@@ -1,42 +1,135 @@
-### Olá, eu sou a Júlia 👋
+<div align="center">
 
-**Desenvolvedora full stack.** Construo produtos web completos, do banco de dados à interface, com regras de negócio bem testadas, APIs seguras e tudo pronto para rodar em produção.
+<!-- HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,13,9,4&height=220&section=header&text=Júlia%20Mendes&fontSize=46&fontColor=ffffff&animation=fadeIn&subtext=Full%20Stack%20Software%20Engineer%20%7C%20Architect%20%7C%20Builder&subfontSize=18&subfontColor=F3E8FF" width="100%" alt="Júlia Mendes Banner" />
 
-🌐 [Portfólio](https://codebyjuliamendes.github.io) · 💼 [LinkedIn](https://www.linkedin.com/in/codebyjuliamendes) · 🇺🇸 [English below](#hi-im-júlia-)
+<!-- ANIMATED TYPING SVG -->
+<a href="https://codebyjuliamendes.github.io">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1200&color=A78BFA&center=true&vCenter=true&width=620&height=45&lines=Full+Stack+Software+Engineer;Building+Reliable+Distributed+Systems;Crafting+Zero-Trust+Production+APIs;Designing+AI-Powered+Web+Products;Always+Shipping+Clean+%26+Tested+Code" alt="Typing SVG" />
+</a>
 
-#### Projetos em destaque
+<p align="center">
+  <a href="https://codebyjuliamendes.github.io">
+    <img src="https://img.shields.io/badge/Interactive_Portfolio-JúliaOS-7C3AED?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/codebyjuliamendes">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:juliamendesazz@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-| Projeto | O que resolve | Stack |
-| --- | --- | --- |
-| [**ContaJusta**](https://github.com/codebyjuliamendes/contajusta) | Divisão de despesas em grupo, com convite por link e acertos sugeridos | Node.js · Express · SQLite · PWA |
-| [**SafeCAT AI**](https://github.com/codebyjuliamendes/ia-para-CAT-engenharia) 🏆 | CAT (eSocial S-2210) com causa raiz por IA e indicadores para o SESMT. Campeão de hackathon | Python · Streamlit · Claude API |
-| [**Tecida (Entre Elas)**](https://github.com/codebyjuliamendes/entre_elas) 🥉 | Rede de conhecimento entre mulheres da empresa, com indicações explicadas por IA. Projeto em equipe, 3º lugar no Hackathon Equatorial | Next.js · Supabase · pgvector |
-| [**ResenhaMarket**](https://github.com/codebyjuliamendes/resenhamarket) ([demo](https://resenhamarket.vercel.app)) | Controle de estoque genérico com saldo não-negativo e livro-razão imutável | Java 21 · Spring Boot · React · PostgreSQL |
-| [**Secretar.ia**](https://github.com/codebyjuliamendes/secretar.ia) | Secretária virtual no WhatsApp com IA, agendamento multi-tenant e billing | Python · FastAPI · Next.js · PostgreSQL |
-| [**Norte**](https://github.com/codebyjuliamendes/norte-app) ([demo](https://organiza-app-three.vercel.app)) | Gestão de rotina, matriz de Eisenhower e sessões de foco com áudio binaural | React 19 · TypeScript · Supabase · PWA |
-| [**EntregaViva**](https://github.com/codebyjuliamendes/entregaviva) | Painel de pedidos em tempo real para restaurante, cozinha e entregadores | Go · chi · Server-Sent Events |
-| [**SpecSentry**](https://github.com/codebyjuliamendes/specsentry) | Detecta mudanças que quebram contratos OpenAPI antes do release | Rust · axum · clap |
-| [**AgentLedger**](https://github.com/codebyjuliamendes/agentledger) | Aprovação humana e auditoria encadeada para ações de agentes de IA | Java 21 · Spring Boot · PostgreSQL |
-| [**ImportKit**](https://github.com/codebyjuliamendes/importkit) | Importação de CSV com validação, revisão e desfazer | Python · FastAPI · SQLAlchemy |
-| [**PratoSalvo**](https://github.com/codebyjuliamendes/pratosalvo) | Marketplace de refeições excedentes com reserva e retirada no balcão | Node.js · Express · SQLite |
-
-Também: [AccessWindow](https://github.com/codebyjuliamendes/accesswindow) (Kotlin) · [LocaleGuard](https://github.com/codebyjuliamendes/localeguard) (TypeScript) · [ResolveAI](https://github.com/codebyjuliamendes/resolveai) (Python) · [EstoqueCerto](https://github.com/codebyjuliamendes/estoquecerto) · [Company Pulse](https://github.com/codebyjuliamendes/company-pulse)
-
-#### Como eu trabalho
-
-- **Domínio primeiro:** regras de negócio em código puro e testável (dinheiro em centavos, fuso explícito, máquinas de estado).
-- **Seguro por padrão:** CSP estrita, validação de entrada, rate limit, proteção contra XSS e CSV injection.
-- **Pronto para produção:** Docker não-root com healthcheck, migrações versionadas, logs estruturados.
-- **Qualidade automatizada:** testes, lint, tipos e smoke test do container em cada PR.
-
-#### Stack
-
-`TypeScript` `JavaScript` `Python` `Go` `Rust` `Java` `Kotlin` · `Node.js` `Next.js` `Fastify` `FastAPI` `Spring Boot` `axum` · `PostgreSQL` `Supabase` `SQLite` · `Docker` `GitHub Actions`
+</div>
 
 ---
 
-### Hi, I'm Júlia 👋
+### 👩‍💻 About Me
 
-**Full stack developer.** I build complete web products, from the database to the interface, with well-tested business rules, secure APIs and production-ready infrastructure. Featured work above: a hackathon-winning workplace safety app (SafeCAT AI), a team knowledge-network product that placed 3rd at the Equatorial Hackathon (Tecida), an inventory management system with non-negative balance guarantees (ResenhaMarket), an AI-powered WhatsApp receptionist for clinics (Secretar.ia), a routine and focus PWA (Norte), Go real-time systems, a Rust OpenAPI contract checker, a Java audit ledger for AI agents, Python data import pipelines and more.
+I am a **Full Stack Software Engineer** focused on building resilient, maintainable, and user-centric web systems. From relational data modeling and zero-trust backend architectures to responsive, accessible client experiences, I craft end-to-end software designed for real-world production.
 
-🌐 [Portfolio](https://codebyjuliamendes.github.io/en/) · 💼 [LinkedIn](https://www.linkedin.com/in/codebyjuliamendes)
+- 🏆 **Hackathon Champion**: 1st Place with **SafeCAT AI** (Workplace safety intelligence for eSocial) & 3rd Place with **Tecida** (Equatorial Hackathon).
+- 🌐 **Interactive Portfolio**: Experience [**JúliaOS**](https://codebyjuliamendes.github.io) — a retro-modern interactive web desktop environment built with zero runtime dependencies.
+- 🛠️ **Engineering Mindset**: Domain-driven design, immutable audit logs, strict security defaults, and automated test-driven pipelines.
+
+---
+
+### 🚀 Tech Stack & Tooling
+
+<div align="center">
+
+#### Languages & Core
+<img src="https://skillicons.dev/icons?i=ts,js,python,java,kotlin,go,rust&theme=dark" alt="Languages" />
+
+#### Frameworks & Backend
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,spring,tailwind&theme=dark" alt="Frameworks" />
+
+#### Databases & Infrastructure
+<img src="https://skillicons.dev/icons?i=postgres,supabase,sqlite,prisma,docker,githubactions,git,linux&theme=dark" alt="Infrastructure" />
+
+</div>
+
+---
+
+### ⚡ Featured Projects
+
+| Project | Highlights & Problem Solved | Stack | Status |
+| :--- | :--- | :--- | :---: |
+| [**SafeCAT AI**](https://github.com/codebyjuliamendes/ia-para-CAT-engenharia) | **Workplace Safety Intelligence**: Automated eSocial S-2210 root-cause analysis and SESMT safety indicators powered by AI. | Python · Streamlit · Claude API | 🏆 Winner |
+| [**Tecida (Entre Elas)**](https://github.com/codebyjuliamendes/entre_elas) | **Collaborative Knowledge Network**: AI-explained female mentorship & skills discovery across corporate teams. | Next.js · Supabase · pgvector | 🥉 3rd Place · [Live](https://entre-elas-omega.vercel.app) |
+| [**ResenhaMarket**](https://github.com/codebyjuliamendes/resenhamarket) | **Inventory Management & Ledger**: Immutable audit trail with guaranteed non-negative stock invariants. | Java 21 · Spring Boot · React · Postgres | 🟢 [Live Demo](https://resenhamarket.vercel.app) |
+| [**Secretar.ia**](https://github.com/codebyjuliamendes/secretar.ia) | **AI Receptionist via WhatsApp**: Multi-tenant automated scheduling, triage and billing for healthcare clinics. | FastAPI · Next.js · Postgres · Gemini | ⚡ Production MVP |
+| [**Norte**](https://github.com/codebyjuliamendes/norte-app) | **Routine & Focus Assistant**: Eisenhower priority matrix, habit planner, and Pomodoro timer with integrated binaural beats. | React 19 · TypeScript · Supabase · PWA | 🟢 [Live Demo](https://organiza-app-three.vercel.app) |
+| [**ContaJusta**](https://github.com/codebyjuliamendes/contajusta) | **Group Expense Splitter**: Shareable invitation links and automated minimal transaction settlement. | Node.js · Express · SQLite · PWA | 🟢 Complete |
+| [**EntregaViva**](https://github.com/codebyjuliamendes/entregaviva) | **Real-Time Dispatch Engine**: Low-latency reactive order board synchronizing kitchen and couriers. | Go · chi · Server-Sent Events | ⚡ Real-Time |
+| [**SpecSentry**](https://github.com/codebyjuliamendes/specsentry) | **OpenAPI Breaking Change Guard**: CLI that protects API contracts by failing CI builds on breaking changes. | Rust · axum · clap | 🛡️ Security |
+| [**AgentLedger**](https://github.com/codebyjuliamendes/agentledger) | **AI Action Audit & Approval**: Human-in-the-loop approval gate and cryptographic audit trail for autonomous agents. | Java 21 · Spring Boot · PostgreSQL | 🔒 Audit Gate |
+| [**ImportKit**](https://github.com/codebyjuliamendes/importkit) | **Embeddable CSV Importer**: Resilient parsing, data validation, client-side preview, and one-click rollback. | Python · FastAPI · SQLAlchemy | 📦 Pipeline |
+
+<details>
+<summary><b>🔍 Explore More Open Source Projects</b></summary>
+<br>
+
+- [**AccessWindow**](https://github.com/codebyjuliamendes/accesswindow) *(Kotlin · Spring Boot · PostgreSQL)* — Time-bound access management with justifications and automated periodic recertification.
+- [**LocaleGuard**](https://github.com/codebyjuliamendes/localeguard) *(TypeScript · Fastify · Zod · Vitest)* — Localization QA engine catching missing translations, format placeholders, and RTL layout glitches.
+- [**ResolveAI**](https://github.com/codebyjuliamendes/resolveai) *(Python · FastAPI · SQLite FTS5 · LLM)* — Support helpdesk intelligence with verified citations against internal knowledge bases.
+- [**PratoSalvo**](https://github.com/codebyjuliamendes/pratosalvo) *(Node.js · Express · SQLite)* — Surplus meal marketplace reducing food waste through counter reservations.
+- [**EstoqueCerto**](https://github.com/codebyjuliamendes/estoquecerto) *(Node.js · Express · SQLite · FEFO)* — Restaurant inventory system with FIFO/FEFO expiration tracking and yield calculation.
+- [**Company Pulse**](https://github.com/codebyjuliamendes/company-pulse) *(Node.js · node:sqlite · RBAC)* — Executive decision-tracking workspace with zero third-party runtime dependencies.
+
+</details>
+
+---
+
+### 📊 GitHub Activity & Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=codebyjuliamendes&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" alt="GitHub Stats" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebyjuliamendes&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7aa2f7&text_color=c0caf5" alt="Top Languages" height="165" />
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=codebyjuliamendes&theme=tokyonight&hide_border=true&background=0D1117&ring=bb9af7&fire=7aa2f7&currStreakLabel=7aa2f7" alt="Streak Stats" />
+
+</div>
+
+---
+
+### 💡 Core Engineering Principles
+
+```ascii
+┌──────────────────┐    ┌──────────────────┐    ┌──────────────────┐
+│  Domain-First    │───>│  Security-First  │───>│ Production-Ready │
+│  Pure business   │    │  Strict CSP, XSS │    │ Docker, CI/CD,   │
+│  logic & tests   │    │  & rate limits   │    │ logs & telemetry │
+└──────────────────┘    └──────────────────┘    └──────────────────┘
+```
+
+- **Domain Integrity First**: Business logic modeled in pure, testable functions (monetary values in integer cents, explicit timezones, deterministic state machines).
+- **Secure by Default**: Strict Content Security Policies (CSP), input sanitization against XSS and CSV injection, rate-limiting, and principle of least privilege.
+- **Production-Ready**: Non-root containerized environments with health checks, versioned database migrations, structured JSON logging, and reproducible builds.
+- **Continuous Quality**: Automated linting, static type checking, end-to-end integration tests, and container smoke testing on every Pull Request.
+
+---
+
+<details>
+<summary><b>🇧🇷 Clique aqui para ler em Português</b></summary>
+<br>
+
+### Olá! Eu sou a Júlia 👋
+
+Desenvolvedora Full Stack focada em construir produtos web completos, do banco de dados à interface, com regras de negócio bem testadas, APIs seguras e prontas para rodar em produção.
+
+- 🏆 **Campeã de Hackathon**: 1º Lugar com **SafeCAT AI** e 3º Lugar com **Tecida** (Hackathon Equatorial).
+- 🌐 **Portfólio Interativo**: Conheça o [**JúliaOS**](https://codebyjuliamendes.github.io) — um ambiente retrô de sistema operacional web sem dependências externas.
+- 💼 [LinkedIn](https://www.linkedin.com/in/codebyjuliamendes) · 📧 [juliamendesazz@gmail.com](mailto:juliamendesazz@gmail.com)
+
+</details>
+
+<div align="center">
+
+<!-- FOOTER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,13,9,4&height=100&section=footer" width="100%" alt="Footer Banner" />
+
+</div>
