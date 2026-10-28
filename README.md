@@ -58,6 +58,7 @@ I am a **Full Stack Software Engineer** focused on building resilient, maintaina
 
 | Project | Highlights & Problem Solved | Stack | Status |
 | :--- | :--- | :--- | :---: |
+| [**RecuperaPix**](https://github.com/codebyjuliamendes/recuperapix) | **B2B WhatsApp Dunning & Pix Recovery SaaS**: Automated empathetic debt collection via WhatsApp with dynamic instant Pix QR codes, reducing small-business default rates by up to 84%. | Next.js 16 · React 19 · TypeScript · Tailwind CSS | ⚡ High-Conversion SaaS |
 | [**SafeCAT AI**](https://github.com/codebyjuliamendes/ia-para-CAT-engenharia) | **Workplace Safety Intelligence**: Automated eSocial S-2210 root-cause analysis and SESMT safety indicators powered by AI. | Python · Streamlit · Claude API | 🏆 1st Place |
 | [**Transparência MA**](https://github.com/codebyjuliamendes/hackthon-stc-ma-2026) | **Government Transparency & AI Search**: Public spending intelligence portal with semantic natural language search, speech synthesis (TTS), contracts, and budget analytics. In partnership with [@rafaelsoeiro](https://github.com/rafaelsoeiro). | NestJS 11 · Next.js 16 · Prisma · PostgreSQL · AI / TTS | 🥉 3rd Place |
 | [**Tecida (Entre Elas)**](https://github.com/codebyjuliamendes/entre_elas) | **Collaborative Knowledge Network**: AI-explained female mentorship & skills discovery across corporate teams. | Next.js · Supabase · pgvector | 🥉 3rd Place · [Live](https://entre-elas-omega.vercel.app) |
